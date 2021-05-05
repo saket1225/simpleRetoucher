@@ -1,0 +1,11 @@
+<svg width="273" height="164" viewBox="0 0 273 164" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="80.5231" width="69.8144" height="31.5781" rx="5" transform="rotate(45.5 80.5231 0)" fill="#F1F1F1"/>
+<rect x="202.949" y="5" width="99.2392" height="32.3851" rx="16.1926" transform="rotate(45.124 202.949 5)" fill="#ABABAB"/>
+<rect x="27.0958" y="63" width="89.4153" height="29.8753" rx="5" transform="rotate(44.9206 27.0958 63)" fill="#F1F1F1"/>
+<rect y="78.2617" width="99.706" height="29.4058" rx="12" transform="rotate(-44 0 78.2617)" fill="#F1F1F1"/>
+<path d="M181.474 144.57C174.784 137.996 174.69 127.243 181.264 120.554L236.728 64.1131C243.302 57.4232 254.055 57.3294 260.745 63.9035V63.9035C267.435 70.4776 267.528 81.2301 260.954 87.92L205.49 144.361C198.916 151.05 188.164 151.144 181.474 144.57V144.57Z" fill="#ABABAB"/>
+<rect x="61" y="140.422" width="195.209" height="33.3068" rx="10" transform="rotate(-46 61 140.422)" fill="#F1F1F1"/>
+<path d="M82 118L74 128.5L76.5 112.5" stroke="black"/>
+<path d="M76.5 112L82 118L74 128L76.5 112Z" fill="black" stroke="black"/>
+<path d="M198 47.5L214 31L203 52L198 47.5Z" fill="black" stroke="black"/>
+</svg>

@@ -1,0 +1,103 @@
+body{
+    background-color: #ffffff;
+    font-family: poppins;
+}
+
+/*.uploadImageInput{
+    display: none;
+}
+
+.uploadImageButton{
+    width: 11rem;
+    height: 2.4rem;
+    background-color: #db202f;
+    border-radius: 3rem;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    margin-top: 7.5rem;
+}
+*/
+
+
+.thumbnail{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 70%;
+    height: 100vh;
+}
+
+.tools{
+    position: absolute;
+    right: 0px;
+    top: 0;
+    width: 30%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.toolDiv{
+    display: block;
+}
+
+.adjuster{
+    position: absolute;
+    width: 50%;
+    height: 0.15rem;
+    -webkit-appearance: none;
+    background-color: rgba(82, 82, 82, 0.6);
+    display: inline-block;
+    left: 10rem;
+    margin-top: 5rem;
+}
+
+.toolName{
+    margin-left: 2rem;
+    margin-top: 4.5rem;
+    display: inline-block;
+}
+
+.adjuster::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid rgba(82, 82, 82, 1);
+}
+
+.adjuster::-moz-range-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  border: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  background-color: white;
+  border: 2px solid rgba(82, 82, 82, 1);
+}
+
+.reset{
+    position: absolute;
+    right: 2rem;
+    border: none;
+    outline: none;
+    z-index: 1;
+    transition: 0.2s;
+}
+
+.addText{
+    margin-top: 4rem;
+    margin-left: 2rem;
+    cursor: pointer;
+    width: 2rem;
+}
